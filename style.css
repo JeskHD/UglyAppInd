@@ -161,7 +161,6 @@ body {
     
     
 }
-
 .btn1 {
     height: 38px;
     border-radius: 0 50px 50px 0;
@@ -171,7 +170,7 @@ body {
     border: none;
     cursor: pointer;
     position: absolute;
-    left: 778px;
+    left: 768px;
     font-family: "Poppins", sans-serif;
 
 }
@@ -195,7 +194,7 @@ body {
     border: none;
     cursor: pointer;
     position: absolute;
-    left: 778px;
+    left: 768px;
     font-family: "Poppins", sans-serif;
 }
 
